@@ -4,7 +4,7 @@
  *
  * @package Pio
  * @author Dreamer-Paul
- * @version 2.4
+ * @version 2.5
  * @link https://paugram.com
  */
 
